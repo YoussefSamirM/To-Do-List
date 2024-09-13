@@ -109,7 +109,7 @@ ul {
   left: 15px;
   top: 50%;
   transform: translateY(-50%);
-  background-image: url("/To-Do-List/Images/unchecked.png");
+  background-image: url("/Css/Images/unchecked.png");
   width: 24px;
   height: 24px;
   background-position: center;
